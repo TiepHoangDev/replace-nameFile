@@ -1,0 +1,27 @@
+C:\Users\HIEU-PC\Desktop\Rename_Javascript_download\Rename_Javascript_download\bin\Debug\Rename_Javascript_download.exe.config
+C:\Users\HIEU-PC\Desktop\Rename_Javascript_download\Rename_Javascript_download\bin\Debug\Rename_Javascript_download.exe
+C:\Users\HIEU-PC\Desktop\Rename_Javascript_download\Rename_Javascript_download\bin\Debug\Rename_Javascript_download.pdb
+C:\Users\HIEU-PC\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.csprojResolveAssemblyReference.cache
+C:\Users\HIEU-PC\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.Form1.resources
+C:\Users\HIEU-PC\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.Properties.Resources.resources
+C:\Users\HIEU-PC\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.csproj.GenerateResource.Cache
+C:\Users\HIEU-PC\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.exe
+C:\Users\HIEU-PC\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.pdb
+C:\Users\TUAN\Desktop\Rename_Javascript_download\Rename_Javascript_download\bin\Debug\Rename_Javascript_download.exe.config
+C:\Users\TUAN\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.exe
+C:\Users\TUAN\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.pdb
+C:\Users\TUAN\Desktop\Rename_Javascript_download\Rename_Javascript_download\bin\Debug\Rename_Javascript_download.exe
+C:\Users\TUAN\Desktop\Rename_Javascript_download\Rename_Javascript_download\bin\Debug\Rename_Javascript_download.pdb
+C:\Users\TUAN\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.csprojResolveAssemblyReference.cache
+C:\Users\TUAN\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.Form1.resources
+C:\Users\TUAN\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.Properties.Resources.resources
+C:\Users\TUAN\Desktop\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.csproj.GenerateResource.Cache
+C:\Users\HP-iMIC\AppData\Roaming\Skype\My Skype Received Files\Rename_Javascript_download\Rename_Javascript_download\Rename_Javascript_download\bin\Debug\Rename_Javascript_download.exe.config
+C:\Users\HP-iMIC\AppData\Roaming\Skype\My Skype Received Files\Rename_Javascript_download\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.exe
+C:\Users\HP-iMIC\AppData\Roaming\Skype\My Skype Received Files\Rename_Javascript_download\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.pdb
+C:\Users\HP-iMIC\AppData\Roaming\Skype\My Skype Received Files\Rename_Javascript_download\Rename_Javascript_download\Rename_Javascript_download\bin\Debug\Rename_Javascript_download.exe
+C:\Users\HP-iMIC\AppData\Roaming\Skype\My Skype Received Files\Rename_Javascript_download\Rename_Javascript_download\Rename_Javascript_download\bin\Debug\Rename_Javascript_download.pdb
+C:\Users\HP-iMIC\AppData\Roaming\Skype\My Skype Received Files\Rename_Javascript_download\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.csprojResolveAssemblyReference.cache
+C:\Users\HP-iMIC\AppData\Roaming\Skype\My Skype Received Files\Rename_Javascript_download\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.Form1.resources
+C:\Users\HP-iMIC\AppData\Roaming\Skype\My Skype Received Files\Rename_Javascript_download\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.Properties.Resources.resources
+C:\Users\HP-iMIC\AppData\Roaming\Skype\My Skype Received Files\Rename_Javascript_download\Rename_Javascript_download\Rename_Javascript_download\obj\Debug\Rename_Javascript_download.csproj.GenerateResource.Cache
